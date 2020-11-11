@@ -62,3 +62,9 @@ body{
 .categories img{
     width: 100px;
 }
+
+.card{
+    
+    box-shadow: 5px 5px 10px lightgray;
+
+}
